@@ -1,6 +1,6 @@
 node('built-in') 
 {
-    stage('Continuous Download_Loan') 
+    stage('Continuous download_Loan') 
 	{
     git 'https://github.com/sunildevops77/maven.git'
 	}
